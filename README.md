@@ -93,10 +93,6 @@ Configure firebase_options.dart using flutterfire configure
 
 Usage
 
-Clone the repository:
-
-git clone https://github.com/yourusername/task_manager_app.git
-
 
 Install dependencies:
 
